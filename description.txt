@@ -1,0 +1,2 @@
+A small and simple mod that allows the player to craft a Daybreak with throwing damage!
+(the melee version is also still craftable).

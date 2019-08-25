@@ -1,0 +1,3 @@
+displayName = Throwing Daybreak
+author = Speedwagon-chan
+version = 0.1.1
